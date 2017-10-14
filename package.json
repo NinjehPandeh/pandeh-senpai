@@ -1,13 +1,25 @@
 {
-  "name": "greeter-bot",
-  "version": "1.0.0",
-  "description": "Greeter bot for Renesansz-Playground",
+  "name": "Pandeh-senpai",
+  "version": "0.0.1-a",
+  "description": "Pandeh bot.",
   "main": "bot.js",
-  "repository": "git@github.com:renesansz/discord-greeter-bot.git",
-  "author": "Renemari Padillo",
-  "license": "MIT",
+  "author": "iNinjeh Pandeh",
   "dependencies": {
-    "discord.io": "^2.5.1",
-    "winston": "^2.3.1"
-  }
+    "discord.io": "^2.5.3",
+    "winston": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renesansz/discord-greeter-bot.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renesansz/discord-greeter-bot/issues"
+  },
+  "homepage": "https://github.com/renesansz/discord-greeter-bot#readme"
 }
