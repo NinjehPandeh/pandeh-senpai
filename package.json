@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/renesansz/discord-greeter-bot.git"
+    "url": "git+https://github.com/NinjehPandeh/pandeh-senpai"
   },
   "keywords": [],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/renesansz/discord-greeter-bot/issues"
+    "url": "https://github.com/NinjehPandeh/pandeh-senpai"
   },
-  "homepage": "https://github.com/renesansz/discord-greeter-bot#readme"
+  "homepage": "https://github.com/NinjehPandeh/pandeh-senpai#readme"
 }
